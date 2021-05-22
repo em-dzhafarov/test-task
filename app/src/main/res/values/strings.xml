@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTaskApplication</string>
+    <string name="hint_enter_username">Enter username here:</string>
+    <string name="hint_enter_email">Enter email here:</string>
+    <string name="button_sign_up">Sign Up!</string>
+    <string name="text_successfully_logged_in">You are successfully registered!</string>
+</resources>
